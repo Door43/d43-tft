@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tft:home|Door43 (tft)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tft|d43-tft repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tft/archive/master.zip|d43-tft.zip]]
+
+**Recent Changes**
+{{changes>ns = tft}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tft|Ethnologue data]]
+
